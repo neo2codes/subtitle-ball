@@ -1,5 +1,9 @@
 # Subtitle Ball
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/neo2codes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Userscript](https://img.shields.io/badge/type-userscript-green.svg)](#install)
+
 A universal floating-ball subtitle panel userscript for any website with an HTML5
 video player. Load a local `.srt` file onto whatever video is on the page.
 
