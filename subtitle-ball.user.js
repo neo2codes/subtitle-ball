@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Subtitle Ball
 // @name:zh-CN   字幕懸浮球
-// @namespace    https://github.com/fishko380-boop/subtitle-ball
+// @namespace    https://github.com/neo2codes/subtitle-ball
 // @version      1.0.0
 // @description  A draggable floating-ball subtitle panel for any website with a video player. Load local SRT files, fine-tune subtitle appearance and position, adjust picture brightness/contrast/saturation, and control everything with hotkeys. Works on Chrome (Tampermonkey) and Safari (Userscripts).
 // @description:zh-CN  為任何有影片播放器嘅網站提供可拖拽字幕懸浮球：載入本地 SRT、調節字幕外觀同位置、調整畫面亮度對比飽和度、快捷鍵控制。支援 Chrome (Tampermonkey) 同 Safari (Userscripts)。
@@ -10,6 +10,8 @@
 // @noframes
 // @license      MIT
 // @run-at       document-end
+// @updateURL    https://raw.githubusercontent.com/neo2codes/subtitle-ball/main/subtitle-ball.user.js
+// @downloadURL  https://raw.githubusercontent.com/neo2codes/subtitle-ball/main/subtitle-ball.user.js
 // ==/UserScript==
 
 /* ============================================
