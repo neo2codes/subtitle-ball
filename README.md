@@ -32,8 +32,15 @@ telemetry.**
 1. Install a userscript manager — [Tampermonkey](https://www.tampermonkey.net/)
    (Chrome/Edge/Firefox) or [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)
    (Safari, macOS/iOS).
-2. Open `subtitle-ball-1.0.0.user.js` and confirm the install prompt.
+2. Open [`subtitle-ball.user.js`](https://raw.githubusercontent.com/neo2codes/subtitle-ball/main/subtitle-ball.user.js) and confirm the install prompt.
 3. Visit any page with a video, and the subtitle ball appears.
+
+## Support
+
+Subtitle Ball is free and open source, and always will be. If you find it
+useful, you can [buy me a coffee](https://buymeacoffee.com/neo2codes) to
+support continued development. Donations are entirely optional — every feature
+in this script is available without them.
 
 ## Privacy
 
