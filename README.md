@@ -46,6 +46,14 @@ useful, you can [buy me a coffee](https://buymeacoffee.com/neo2codes) to
 support continued development. Donations are entirely optional — every feature
 in this script is available without them.
 
+<p align="center">
+  <a href="https://buymeacoffee.com/neo2codes">
+    <img src="bmc-qr-code.png" alt="Buy Me a Coffee QR code" width="160">
+  </a>
+  <br>
+  <sub>Scan to support on mobile</sub>
+</p>
+
 ## Privacy
 
 Nothing leaves your browser. All settings are stored in `localStorage` under the
